@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+    color: darkred;
+}
+
+div {
+    background: pink;
+    padding: 0 0 20px 0;
+    padding: 0;
+}
+h2 {
+    padding-left: 200px;
+    color: darkred;
+    font-size: 30px;
+}
+p{
+    padding-left: 200px;
+    font-size: 20px;
+    letter-spacing: 1px;
+    font-family: 'Sarabun', sans-serif;
+}
+
+span {
+    text-transform: uppercase;
+}
+
+button {
+    text-align: center;
+    margin-left: 650px;    
+}
